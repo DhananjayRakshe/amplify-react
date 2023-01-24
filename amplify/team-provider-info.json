@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-medvol-dev-145116-authRole",
+      "UnauthRoleArn": "arn:aws:iam::596106444065:role/amplify-medvol-dev-145116-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::596106444065:role/amplify-medvol-dev-145116-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-medvol-dev-145116-deployment",
+      "UnauthRoleName": "amplify-medvol-dev-145116-unauthRole",
+      "StackName": "amplify-medvol-dev-145116",
+      "StackId": "arn:aws:cloudformation:us-east-1:596106444065:stack/amplify-medvol-dev-145116/776b2b30-9bc8-11ed-9897-0ae00a88f7bf",
+      "AmplifyAppId": "dp8dbkl75ku4a"
+    }
+  }
+}
