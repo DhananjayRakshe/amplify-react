@@ -10,6 +10,18 @@
       "StackName": "amplify-medvol-dev-145116",
       "StackId": "arn:aws:cloudformation:us-east-1:596106444065:stack/amplify-medvol-dev-145116/776b2b30-9bc8-11ed-9897-0ae00a88f7bf",
       "AmplifyAppId": "dp8dbkl75ku4a"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dp8dbkl75ku4a",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "medvolfd994820": {},
+        "userPoolGroups": {}
+      }
     }
   }
 }
